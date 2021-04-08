@@ -1,1 +1,1 @@
-# BCG-Logo-Data-Science-Advanced-Analytics-Virtual-Experience-Program
+# BCG-Data-Science-Advanced-Analytics-Virtual-Experience-Program
